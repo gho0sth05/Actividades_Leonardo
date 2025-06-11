@@ -1,0 +1,11 @@
+.caja {
+border: dotted 5px rgb(16, 91, 253);
+padding: 60px 30px 20px 15px;
+margin : 100px 200px 50px 200px;
+}
+.caja_2{
+    border: double 5px rgb(116, 62, 234) ;
+    padding: 60px 30px 20px 15px;
+    margin: 0px 200px 50px 200px ;
+    
+}
